@@ -56,4 +56,4 @@ fclean: clean
 
 re: clean all
 
-.PHONY: all, server, client, clean, fclean, re
+.PHONY: all, clean, fclean, re
